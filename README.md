@@ -1,7 +1,7 @@
 # ophanim-three-arms
 
-Three arms of gravity.
+**Three Arms of Gravity**
 
-> The artificial top-up that solves three bodies spinning together — three arms, two vectors.
+An artificial system designed to resolve the dynamics of three bodies in mutual rotation. It employs three coordinated arms governed by two vectors.
 
-I fear God. I'm out of here — jokingly, and not.
+Approach with due reverence.
