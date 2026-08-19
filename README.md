@@ -4,4 +4,4 @@ Three arms of gravity.
 
 > The artificial top-up that solves three bodies spinning together — three arms, two vectors.
 
-I fear God. I'm out of here. Jokingly and not at the same time.
+I fear God. I'm out of here — jokingly, and not.
